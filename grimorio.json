@@ -2,20 +2,171 @@
   "arcanos_mayores": [
     {
       "titulo": "El Loco (0)",
-      "contenido": "El Loco es la carta número cero del Tarot. Representa el salto de fe, los nuevos comienzos y el espíritu libre."
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar00.jpg",
+      "contenido": "Representa el comienzo de un viaje, la espontaneidad y la fe ciega en el universo. Es el arquetipo del niño interior que confía en que todo saldrá bien. Su aparición sugiere que estás a punto de dar un gran salto hacia lo desconocido."
     },
     {
       "titulo": "El Mago (I)",
-      "contenido": "El Mago tiene todos los elementos a su disposición. Es la carta de la manifestación, el poder personal y la creación de tu propia realidad."
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar01.jpg",
+      "contenido": "El Mago simboliza el poder de la manifestación. Tiene los cuatro elementos sobre su mesa (oros, copas, espadas y bastos) lo que indica que tienes todos los recursos necesarios para triunfar. Te llama a tomar acción y creer en tu propio poder creativo."
+    },
+    {
+      "titulo": "La Sacerdotisa (II)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar02.jpg",
+      "contenido": "La guardiana de los secretos y el conocimiento oculto. Representa la intuición pura, la mente subconsciente y la sabiduría divina. Te pide que escuches tu voz interior antes de tomar decisiones."
+    },
+    {
+      "titulo": "La Emperatriz (III)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar03.jpg",
+      "contenido": "El arquetipo de la madre tierra, la fertilidad, la abundancia y la sensualidad. Es una carta profundamente creadora que indica crecimiento, belleza, cuidado y conexión profunda con la naturaleza."
+    },
+    {
+      "titulo": "El Emperador (IV)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar04.jpg",
+      "contenido": "La autoridad, la estructura, la ley y el orden. Representa la figura paterna, el establecimiento de límites claros y la capacidad de liderar con firmeza y lógica."
+    },
+    {
+      "titulo": "El Sumo Sacerdote (V)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar05.jpg",
+      "contenido": "También llamado 'El Papa' o 'El Hierofante'. Simboliza las creencias tradicionales, la religión, el matrimonio y la búsqueda de un sentido superior a través de instituciones o maestros establecidos."
+    },
+    {
+      "titulo": "Los Enamorados (VI)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar06.jpg",
+      "contenido": "Representa el amor verdadero, la unión profunda, la armonía y también las grandes decisiones en la vida. Es la encrucijada donde debes elegir con el corazón y no solo con la mente."
+    },
+    {
+      "titulo": "El Carro (VII)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar07.jpg",
+      "contenido": "Victoria a través del control y la disciplina. Simboliza el triunfo, la superación de obstáculos y el avance decidido hacia una meta uniendo fuerzas opuestas."
+    },
+    {
+      "titulo": "La Fuerza (VIII)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar08.jpg",
+      "contenido": "Fuerza interior, coraje, compasión y control de los instintos primarios. No es fuerza bruta, sino el poder del amor y la paciencia domando a la bestia (el ego)."
+    },
+    {
+      "titulo": "El Ermitaño (IX)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar09.jpg",
+      "contenido": "Introspección, soledad voluntaria y búsqueda de la verdad interior. Te pide que te retires del ruido del mundo exterior para encontrar la luz de tu propia sabiduría."
+    },
+    {
+      "titulo": "La Rueda de la Fortuna (X)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar10.jpg",
+      "contenido": "Ciclos, destino, puntos de inflexión. Te recuerda que nada es permanente; si estás abajo, pronto subirás, y viceversa. Es el karma en acción."
+    },
+    {
+      "titulo": "La Justicia (XI)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar11.jpg",
+      "contenido": "Causa y efecto, equilibrio, equidad, verdad y la ley. Todo acto tiene una consecuencia. Te pide actuar con integridad y asumir la responsabilidad de tus actos."
+    },
+    {
+      "titulo": "El Colgado (XII)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar12.jpg",
+      "contenido": "Pausa, rendición, sacrificio y ver las cosas desde una nueva perspectiva. A veces es necesario soltar el control para que la verdadera iluminación aparezca."
+    },
+    {
+      "titulo": "La Muerte (XIII)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar13.jpg",
+      "contenido": "Transformación profunda, finales necesarios, transición y liberación. No habla de muerte física, sino del final de un ciclo para que algo nuevo y mejor pueda nacer."
+    },
+    {
+      "titulo": "La Templanza (XIV)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar14.jpg",
+      "contenido": "Equilibrio, moderación, paciencia y alquimia interna. Es el arte de mezclar opuestos para crear algo perfecto. Te invita a encontrar tu centro y evitar los extremos."
+    },
+    {
+      "titulo": "El Diablo (XV)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar15.jpg",
+      "contenido": "Apegos tóxicos, adicciones, materialismo y la sensación de estar atrapado. Te recuerda que las cadenas que te atan son mentales y que tú tienes el poder de liberarte."
+    },
+    {
+      "titulo": "La Torre (XVI)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar16.jpg",
+      "contenido": "Cambio abrupto, revelación impactante, colapso de estructuras falsas. Aunque suele ser doloroso, es una purga necesaria para construir sobre cimientos reales y verdaderos."
+    },
+    {
+      "titulo": "La Estrella (XVII)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar17.jpg",
+      "contenido": "Esperanza, inspiración, serenidad, sanación y renovación espiritual. Es la luz al final del túnel que te dice que el universo te bendice y te protege."
+    },
+    {
+      "titulo": "La Luna (XVIII)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar18.jpg",
+      "contenido": "Misterio, ilusiones, intuición y miedos ocultos. Las cosas no son lo que parecen. Te pide navegar tus aguas emocionales profundas y confiar en tus instintos."
+    },
+    {
+      "titulo": "El Sol (XIX)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar19.jpg",
+      "contenido": "Alegría pura, éxito brillante, vitalidad, confianza y verdad absoluta. Es una de las cartas más positivas; todo lo que tocas se ilumina de positividad."
+    },
+    {
+      "titulo": "El Juicio (XX)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar20.jpg",
+      "contenido": "Renacimiento, absolución, llamado interior y perdón. Es el momento del despertar espiritual donde te libras del pasado y respondes al llamado de tu verdadero propósito."
+    },
+    {
+      "titulo": "El Mundo (XXI)",
+      "img": "https://sacred-texts.com/tarot/pkt/img/ar21.jpg",
+      "contenido": "Culminación, logro total, integración, éxito y celebración. Representa el final feliz de un largo viaje y la sensación de plenitud y armonía con el universo."
+    }
+  ],
+  "arcanos_menores": [
+    {
+      "titulo": "As de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1xyq-nX8VtWG9QmiOfrdbDuV_-4m9peZb&sz=w500",
+      "contenido": "Un nuevo comienzo material. Dinero, oportunidades de negocio, salud y prosperidad tangibles."
+    },
+    {
+      "titulo": "Tres de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1nBkc3obG9V002ilzeCjkd92xI0OFWcIw&sz=w500",
+      "contenido": "El dolor emocional, la tristeza, separación o traición. Una herida necesaria que debe sanar."
+    },
+    {
+      "titulo": "Diez de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1xEWaWTv_tYIjdTM3RCpn_NmaUd1wqz12&sz=w500",
+      "contenido": "La realización emocional absoluta. Felicidad familiar, armonía, amor duradero y paz en el hogar."
+    },
+    {
+      "titulo": "Caballo de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1WnG1N2EM2KvzSTQhCJVjsKXg51fHqCGL&sz=w500",
+      "contenido": "Acción rápida, aventura, energía ardiente e impulsividad. Ir tras lo que se desea con pasión extrema."
     }
   ],
   "signos": [
     {
       "titulo": "Aries ♈",
-      "contenido": "Primer signo del zodíaco. Fuego cardinal. Representa el impulso, el liderazgo, el coraje y los nuevos comienzos."
+      "contenido": "Primer signo del zodíaco. Fuego cardinal regido por Marte. Representa el impulso, el liderazgo nato, el coraje visceral y los nuevos comienzos. Los arianos actúan antes de pensar y abren caminos."
+    },
+    {
+      "titulo": "Tauro ♉",
+      "contenido": "Segundo signo. Tierra fija regida por Venus. Energía de estabilidad, perseverancia, sensualidad y profunda conexión con la naturaleza y el mundo material. Aman el confort."
+    },
+    {
+      "titulo": "Géminis ♊",
+      "contenido": "Tercer signo. Aire mutable regido por Mercurio. Mente veloz, dualidad, curiosidad insaciable y maestría en la comunicación. Son el eterno estudiante del zodiaco."
     }
   ],
-  "planetas": [],
-  "casas": [],
-  "lunas": []
+  "planetas": [
+    {
+      "titulo": "Sol ☉",
+      "contenido": "Representa el ego, la vitalidad, la conciencia y la identidad central. Es tu verdadero 'yo', tu forma de brillar en el mundo y tu motivación de vida primaria."
+    },
+    {
+      "titulo": "Luna ☽",
+      "contenido": "Gobierna tu subconsciente, tus emociones crudas, instintos y aquello que te da seguridad. Refleja cómo amas y cómo reaccionas ante situaciones de crisis."
+    }
+  ],
+  "casas": [
+    {
+      "titulo": "Casa 1 (Ascendente)",
+      "contenido": "La casa del yo físico. Representa tu apariencia, tu constitución, tu máscara social y la primera impresión que causas en los demás."
+    }
+  ],
+  "lunas": [
+    {
+      "titulo": "Luna Nueva",
+      "contenido": "El momento de la siembra cósmica. La oscuridad en el cielo invita a la introspección profunda, a establecer intenciones claras y a comenzar proyectos desde cero."
+    }
+  ]
 }
