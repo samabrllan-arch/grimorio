@@ -115,22 +115,282 @@
     {
       "titulo": "As de Oros",
       "img": "https://drive.google.com/thumbnail?id=1xyq-nX8VtWG9QmiOfrdbDuV_-4m9peZb&sz=w500",
-      "contenido": "Un nuevo comienzo material. Dinero, oportunidades de negocio, salud y prosperidad tangibles."
+      "contenido": "Representa un nuevo comienzo material lleno de potencial. Es una semilla de prosperidad que el universo te entrega. Anuncia dinero, una oportunidad de negocio sólida, un nuevo trabajo o excelente salud física. Es el momento perfecto para invertir en tu futuro.\n\nCARTA INVERTIDA:\nOportunidades perdidas, mala planificación financiera o retrasos en pagos. Advierte sobre gastos impulsivos o aferrarse demasiado a lo material. La semilla está ahí, pero no la estás regando correctamente."
     },
     {
-      "titulo": "Tres de Espadas",
-      "img": "https://drive.google.com/thumbnail?id=1nBkc3obG9V002ilzeCjkd92xI0OFWcIw&sz=w500",
-      "contenido": "El dolor emocional, la tristeza, separación o traición. Una herida necesaria que debe sanar."
+      "titulo": "Dos de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1zlwaKBmpW7pRhDED-H3pchLFNg6X-fDC&sz=w500",
+      "contenido": "Equilibrio, adaptabilidad y gestión del tiempo. Estás haciendo malabares con varias responsabilidades a la vez (trabajo, familia, dinero). Te recuerda que debes mantenerte flexible y fluir con los altibajos financieros.\n\nCARTA INVERTIDA:\nDesequilibrio, desorganización y estrés extremo. Se te están cayendo los malabares. Indica que has asumido más de lo que puedes manejar y tus finanzas o tu salud están empezando a sufrir las consecuencias."
+    },
+    {
+      "titulo": "Tres de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1-lAg3nMkgem8J-ItGeg-GmFhi3A0hYu5&sz=w500",
+      "contenido": "Trabajo en equipo, colaboración y maestría. Tu esfuerzo está siendo reconocido. Es el momento de unir fuerzas con otros, aprender de expertos y construir algo duradero paso a paso. El éxito se logra planificando juntos.\n\nCARTA INVERTIDA:\nFalta de trabajo en equipo, desorganización o conflictos con compañeros de trabajo. Sientes que no valoran tu esfuerzo o te niegas a escuchar los consejos de los demás, retrasando tu propio éxito."
+    },
+    {
+      "titulo": "Cuatro de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1zKLGM0-Q0tEV7r8B9HnrVdQaQpbX4Qgi&sz=w500",
+      "contenido": "Seguridad financiera, ahorro y conservación. Has logrado estabilidad y quieres proteger lo que es tuyo. Es una carta que sugiere prudencia con los recursos, pero también te invita a disfrutar de lo que has ganado.\n\nCARTA INVERTIDA:\nAvaricia, miedo irracional a la pobreza, tacañería o estancamiento. Estás tan aferrado a tu dinero o a tus posesiones que no permites que la energía fluya. También puede indicar gastos inesperados."
+    },
+    {
+      "titulo": "Cinco de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1VPgh54pgu11RxB8cn7H991YDDjk-FdF6&sz=w500",
+      "contenido": "Dificultades temporales, pérdida financiera, aislamiento o enfermedad. Sientes que te han dejado en el frío. Sin embargo, la carta te recuerda que la ayuda está cerca (la ventana iluminada), solo debes dejar el orgullo y pedirla.\n\nCARTA INVERTIDA:\n¡Recuperación a la vista! Indica el final de una racha de pobreza o de una enfermedad. Estás saliendo del aislamiento, encontrando nuevas fuentes de ingresos y reconstruyendo tu autoestima."
+    },
+    {
+      "titulo": "Seis de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1DFmMPl_Z0g2Qjz0kiqe8azu35AqnnDVf&sz=w500",
+      "contenido": "Generosidad, caridad y el flujo del dar y recibir. Si estás en abundancia, es momento de ayudar a otros; si necesitas ayuda, alguien te la ofrecerá. El universo equilibra la balanza a través de la gratitud.\n\nCARTA INVERTIDA:\nDeudas sin pagar, egoísmo, o dar con condiciones ocultas. Puede que alguien se esté aprovechando de tu generosidad, o que te niegues a devolver un favor. Cuidado con préstamos engañosos."
+    },
+    {
+      "titulo": "Siete de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1iJv6_VJ0uqsaMJFxmMDReno2OItvpgjC&sz=w500",
+      "contenido": "Paciencia, evaluación y recompensa por el esfuerzo a largo plazo. Has trabajado duro y ahora contemplas los frutos que están por madurar. Te pide que no te desesperes, las cosas buenas toman su tiempo para crecer.\n\nCARTA INVERTIDA:\nImpaciencia, frustración o sensación de que tu esfuerzo no vale la pena. Quizás invertiste tiempo y energía en un proyecto que no está dando resultados. Es momento de replantear tu estrategia."
+    },
+    {
+      "titulo": "Ocho de Oros",
+      "img": "https://drive.google.com/thumbnail?id=10O6BPryrlkzcl7EfleXf9tXMhxf2hlYt&sz=w500",
+      "contenido": "Dedicación, perfeccionismo, aprendizaje y enfoque en los detalles. Estás inmerso en tu trabajo o perfeccionando una nueva habilidad. Este esfuerzo constante te llevará a la maestría y al éxito material sostenido.\n\nCARTA INVERTIDA:\nAburrimiento, trabajo monótono, falta de ambición o perfeccionismo paralizante. Estás trabajando sin pasión o descuidando la calidad por hacer las cosas deprisa. Falta de enfoque."
+    },
+    {
+      "titulo": "Nueve de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1Zfn8WExx-TdM6H91L-5BCKLucb7vWuuI&sz=w500",
+      "contenido": "Independencia financiera, lujo, autosuficiencia y disfrute de los placeres de la vida. Representa el éxito logrado por mérito propio. Tienes derecho a disfrutar de un entorno hermoso y abundante, te lo has ganado.\n\nCARTA INVERTIDA:\nDependencia financiera de otros, gastar por encima de tus posibilidades o éxito exterior que esconde vacío interior. Trabajas tanto que te has olvidado de disfrutar de la vida y de la naturaleza."
+    },
+    {
+      "titulo": "Diez de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1kUwH7CanjG9KFTC5RwDhl-Xa6pbCHVRK&sz=w500",
+      "contenido": "Abundancia a largo plazo, legado, familia y riqueza generacional. Has construido algo tan sólido que beneficiará a los tuyos por años. Habla de tradiciones familiares, herencias y seguridad financiera absoluta.\n\nCARTA INVERTIDA:\nProblemas con herencias, disputas familiares por dinero, o una base financiera inestable. El éxito material está ahí, pero las relaciones familiares están rotas o hay una pérdida de tradiciones importantes."
+    },
+    {
+      "titulo": "Paje de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1CME-HYt6QchaADXRItpC8iWNr2KLXD6p&sz=w500",
+      "contenido": "Mensajes de prosperidad, nuevas oportunidades de estudio o trabajo, y manifestación práctica. Tienes una idea terrenal y quieres hacerla realidad. Simboliza a un estudiante aplicado, un joven ambicioso y confiable.\n\nCARTA INVERTIDA:\nFalta de progreso, procrastinación, o ideas que no se materializan por pereza. Puede representar a alguien inmaduro financieramente, o retrasos en noticias relacionadas con dinero o trabajo."
+    },
+    {
+      "titulo": "Caballo de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1KT5ePSrTKuZmwaQj1EF2VVfKVRSjFyYt&sz=w500",
+      "contenido": "Rutina, trabajo constante, confiabilidad y progreso lento pero seguro. Este caballero no corre; avanza con paso firme y nunca se rinde. Te pide que seas disciplinado, asumas tus responsabilidades y termines lo que empezaste.\n\nCARTA INVERTIDA:\nEstancamiento, terquedad, apatía o un enfoque excesivo en el trabajo descuidando todo lo demás. Indica a una persona obstinada, aburrida, o un proyecto que se ha quedado paralizado por miedo a arriesgar."
+    },
+    {
+      "titulo": "Reina de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1i1j4Mgqez7HTkdtJq6ifiYeMfSR63d-O&sz=w500",
+      "contenido": "Generosidad, practicidad, abundancia maternal y conexión con la tierra. Es la proveedora que cuida de los suyos y mantiene el hogar próspero. Representa a una persona exitosa, acogedora y con gran sentido común.\n\nCARTA INVERTIDA:\nMaterialismo extremo, envidia, asfixia a sus seres queridos o un enfoque superficial en las apariencias. Puede advertir sobre problemas financieros causados por descuidar el equilibrio entre la vida laboral y personal."
+    },
+    {
+      "titulo": "Rey de Oros",
+      "img": "https://drive.google.com/thumbnail?id=1cLgMgLZjNbS9ZIoErblSvFbSUrf7Pm-K&sz=w500",
+      "contenido": "Poder material, éxito en los negocios, liderazgo y abundancia. Es el empresario astuto, el patriarca protector. Todo lo que toca lo convierte en oro. Inspira confianza, seguridad y representa la cúspide del éxito terrenal.\n\nCARTA INVERTIDA:\nCodicia, corrupción, obsesión con el estatus o crueldad en los negocios. Representa a un líder tiránico que valora el dinero por encima de las personas, o por el contrario, alguien inepto para manejar sus finanzas."
+    },
+    {
+      "titulo": "As de Copas",
+      "img": "https://tnUfPOREomsPOSckI9QkgGqBUjqBrpcT&sz=w500",
+      "contenido": "Un nuevo comienzo emocional. El surgimiento del amor profundo, la intuición, la compasión y la creatividad pura. Es el cáliz rebosante del universo; marca el inicio de una relación muy espiritual o un despertar emocional sanador.\n\nCARTA INVERTIDA:\nBloqueos emocionales, amor no correspondido, tristeza o reprimir tus sentimientos. La copa está vacía o derramada. Advierte sobre la necesidad de amarte a ti mismo primero antes de buscar llenar tu vacío en otros."
+    },
+    {
+      "titulo": "Dos de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1bfpSpcZkqRBbCKEnAoehyVPGarvwi3qj&sz=w500",
+      "contenido": "Amor mutuo, conexión del alma, asociaciones y armonía. Representa a dos fuerzas que se unen en perfecto equilibrio. Es la carta clásica de las almas gemelas, los romances verdaderos o las sociedades extremadamente prósperas.\n\nCARTA INVERTIDA:\nDesequilibrio en la relación, falta de armonía, rupturas o desconexión emocional. Uno de los dos está dando más que el otro. Puede indicar discusiones, desconfianza o una sociedad que se disuelve."
+    },
+    {
+      "titulo": "Tres de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1L7AFyL6Zrob_IkNORW27KyVYvd8KTeia&sz=w500",
+      "contenido": "Celebración, amistad, comunidad y alegría compartida. Es el momento de reunirte con las personas que amas, festejar un logro o disfrutar de la energía festiva. La vida es dulce cuando se comparte.\n\nCARTA INVERTIDA:\nExcesos en fiestas, chismes entre amigos, sentirse excluido o un tercero en discordia en una relación. Te advierte sobre amistades superficiales o la necesidad de tomarte un descanso de la vida social."
+    },
+    {
+      "titulo": "Cuatro de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1eMLPK31kSrlHS-dep6rX6Pq2mjQAj-4V&sz=w500",
+      "contenido": "Apatía, meditación, contemplación y descontento. Estás tan enfocado en lo que te falta o en tus decepciones pasadas que no ves la nueva copa (oportunidad) que el universo te está ofreciendo. Abre los ojos.\n\nCARTA INVERTIDA:\nDespertar espiritual, salir de la rutina y aceptar nuevas oportunidades. Dejas atrás el aburrimiento, te reincorporas a la vida y finalmente decides aceptar esa oferta o amor que antes habías rechazado."
+    },
+    {
+      "titulo": "Cinco de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1wnRbRXdQTk_hNbMALIM9iAaHkTNz6rfE&sz=w500",
+      "contenido": "Pérdida, luto, arrepentimiento y decepción. Lloras por las tres copas derramadas (lo que se fue), pero la carta te recuerda que aún quedan dos copas llenas a tus espaldas (lo que aún conservas). No todo está perdido.\n\nCARTA INVERTIDA:\nAceptación de la pérdida, perdón, sanación emocional y seguir adelante. Has dejado de llorar sobre la leche derramada, estás haciendo las paces con tu pasado y estás listo para amar y vivir de nuevo."
+    },
+    {
+      "titulo": "Seis de Copas",
+      "img": "https://drive.google.com/thumbnail?id=13w-lNAUoYUsjbiCQpcZjDMwmW71Y9Run&sz=w500",
+      "contenido": "Nostalgia, inocencia, recuerdos de la infancia y reencuentros. Un amor del pasado o un viejo amigo podría regresar. Te conecta con la alegría pura de cuando eras niño y los sentimientos de familiaridad.\n\nCARTA INVERTIDA:\nAferrarse desesperadamente al pasado, negarse a crecer, o traumas de la infancia no resueltos. Te advierte que vivir en la nostalgia te está impidiendo ver el presente y construir un futuro."
+    },
+    {
+      "titulo": "Siete de Copas",
+      "img": "https://drive.google.com/thumbnail?id=177gzCdknpLagVq4U9PbeqCzAf391OmG4&sz=w500",
+      "contenido": "Ilusiones, múltiples opciones, fantasías y ensoñación. Tienes muchos caminos ante ti, pero cuidado, no todo lo que brilla es oro. Necesitas bajar a la tierra, priorizar y tomar una decisión basada en la realidad.\n\nCARTA INVERTIDA:\nClaridad repentina, superar las ilusiones o encontrar el enfoque. El humo se disipa, las opciones falsas desaparecen y finalmente sabes exactamente qué es lo que quieres y qué debes hacer."
+    },
+    {
+      "titulo": "Ocho de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1DAh94NeP4gLiYgyZAzPKVJ6nvsSFKdq-&sz=w500",
+      "contenido": "Alejarse, dejar atrás lo que ya no sirve, búsqueda espiritual. Has conseguido lo que creías querer, pero sientes un vacío. Te alejas voluntariamente de una situación (relación, trabajo) en busca de un significado más profundo.\n\nCARTA INVERTIDA:\nMiedo a abandonar una situación estancada, conformismo o falta de valor para buscar tu verdadera felicidad. Te quedas en un lugar que no te llena por miedo a la soledad o a lo desconocido."
+    },
+    {
+      "titulo": "Nueve de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1FiYoCc_gPy9NVbUuG0ql0cFaZZu_zHGn&sz=w500",
+      "contenido": "El cumplimiento de un deseo, satisfacción emocional, gratitud y placer. Es la carta de 'los deseos concedidos'. Te dice que todo está saliendo como soñabas. Siéntete orgulloso y disfruta de este momento de alegría y plenitud.\n\nCARTA INVERTIDA:\nInsatisfacción secreta, materialismo, glotonería o deseos que se cumplen pero no traen la felicidad esperada. Te advierte sobre ser engreído o dar por sentadas tus bendiciones."
     },
     {
       "titulo": "Diez de Copas",
       "img": "https://drive.google.com/thumbnail?id=1xEWaWTv_tYIjdTM3RCpn_NmaUd1wqz12&sz=w500",
-      "contenido": "La realización emocional absoluta. Felicidad familiar, armonía, amor duradero y paz en el hogar."
+      "contenido": "La realización emocional absoluta. Felicidad familiar, armonía, amor duradero y paz en el hogar. Muestra el arcoíris al final de la tormenta; estás rodeado de amor incondicional y alineado con tu propósito espiritual.\n\nCARTA INVERTIDA:\nConflictos familiares, hogares rotos, ideales chocantes o una apariencia de 'familia perfecta' que es falsa en el interior. Te insta a restaurar la armonía y a sanar los lazos rotos con tus seres queridos."
+    },
+    {
+      "titulo": "Paje de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1ijNoG_OEZhT_qG7MHHwFHyKU3vAMa-rz&sz=w500",
+      "contenido": "Un mensaje emocional, nueva inspiración artística, sincronicidad e intuición juguetona. Representa a una persona dulce y soñadora. Anuncia el surgimiento de un nuevo sentimiento, un coqueteo o una sorpresa agradable.\n\nCARTA INVERTIDA:\nInmadurez emocional, hipersensibilidad, berrinches o bloqueos creativos. Puede representar a alguien enamoradizo pero poco confiable, o noticias que traen decepción emocional."
+    },
+    {
+      "titulo": "Caballo de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1anHGjh6pN8U1sumCwUljLtRmJLsKRxXq&sz=w500",
+      "contenido": "El romántico, el idealista, el que sigue a su corazón. Trae invitaciones o propuestas amorosas. Es la energía de ir en búsqueda de tus sueños con pasión, gracia, encanto y una profunda conexión espiritual.\n\nCARTA INVERTIDA:\nFalso romanticismo, celos, promesas rotas o alguien que huye a la primera señal de compromiso. Es el 'príncipe azul' que resulta ser un manipulador emocional o alguien que cambia de humor drásticamente."
+    },
+    {
+      "titulo": "Reina de Copas",
+      "img": "https://drive.google.com/thumbnail?id=13i7YP_ReEdxuKEnfSRrk8rRTUarK3E4s&sz=w500",
+      "contenido": "Empatía profunda, compasión, intuición psíquica y cuidado emocional. Es la sanadora del tarot, conectada con el inconsciente. Te pide que ames con el corazón abierto y que escuches siempre a tu intuición.\n\nCARTA INVERTIDA:\nCodependencia, martirio, ahogarse en las propias emociones o absorber la negatividad de los demás. Alguien que usa el chantaje emocional, o una pérdida temporal del equilibrio y la cordura."
+    },
+    {
+      "titulo": "Rey de Copas",
+      "img": "https://drive.google.com/thumbnail?id=1a6i5GlkTcZQkSjZ81-J8WraG4LbhQ479&sz=w500",
+      "contenido": "Equilibrio emocional, sabiduría, diplomacia y compasión controlada. Es un líder nato que guía desde el corazón, pero sin perder la calma. Posee gran inteligencia emocional y es un consejero excelente.\n\nCARTA INVERTIDA:\nManipulación emocional, frialdad, represión de sentimientos o un carácter vengativo y rencoroso. Alguien que aparenta estar en control, pero internamente es un volcán de emociones tóxicas a punto de estallar."
+    },
+    {
+      "titulo": "As de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1De3ym2_ZxOaoXTMilIYyNsU6EOFdkVqK&sz=w500",
+      "contenido": "Claridad mental, un avance intelectual, la verdad cruda y la victoria a través de la razón. Una idea brillante corta la confusión como una espada. Es el momento de ser lógico, directo y tomar decisiones con justicia inquebrantable.\n\nCARTA INVERTIDA:\nConfusión mental, malentendidos, hostilidad y uso de palabras hirientes. Una idea brillante que resulta ser destructiva, o un bloqueo que te impide ver la verdad de una situación. Caos mental."
+    },
+    {
+      "titulo": "Dos de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1wM_OITaXn6YS9KMJlgB9ZWUa-tzNSv7-&sz=w500",
+      "contenido": "Indecisión, un estancamiento, negación a ver la verdad y emociones bloqueadas. Estás en una encrucijada y prefieres taparte los ojos antes que elegir. La carta te pide quitarte la venda y enfrentar la difícil decisión de frente.\n\nCARTA INVERTIDA:\nSobrecarga de información, elegir el mal menor, o la venda cayendo finalmente. Te ves obligado a tomar partido y lidiar con la tensión. La verdad sale a la luz, aunque sea dolorosa."
+    },
+    {
+      "titulo": "Tres de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1nBkc3obG9V002ilzeCjkd92xI0OFWcIw&sz=w500",
+      "contenido": "Dolor emocional, tristeza, lágrimas, separación o traición. Es el corazón atravesado. Representa una herida profunda, pero también indica que esta tormenta es temporal y que expresar el dolor es necesario para sanar.\n\nCARTA INVERTIDA:\nRecuperación del dolor, sanación emocional, perdón y dejar atrás el sufrimiento. Estás liberando el dolor de una ruptura o traición pasada. Sin embargo, a veces puede indicar represión de la tristeza."
+    },
+    {
+      "titulo": "Cuatro de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1bsiO83SpPaHBeriCNKXzNdkDE_i75dR9&sz=w500",
+      "contenido": "Descanso, recuperación, meditación y tregua. Después de un periodo de estrés mental, necesitas retirarte a sanar. No es rendición, es recargar energía antes del próximo desafío. Tómate un tiempo a solas.\n\nCARTA INVERTIDA:\nAgotamiento total por no descansar a tiempo, o el despertar después de una larga convalecencia. Es momento de volver al mundo y reanudar la acción, sintiéndote revitalizado y listo."
+    },
+    {
+      "titulo": "Cinco de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1cO73LrtmFgklf0E9ppzV_PQY2c-Vk5XU&sz=w500",
+      "contenido": "Conflicto, traición, victoria a cualquier precio y hostilidad. Has ganado la batalla, pero podrías perder la guerra si destruyes tus relaciones en el proceso. Advierte sobre egoísmo, venganza o entrar en discusiones inútiles.\n\nCARTA INVERTIDA:\nRemordimiento por acciones pasadas, deseo de reconciliación, o la superación de un resentimiento antiguo. Te das cuenta de que el conflicto no lleva a nada bueno y buscas una tregua."
+    },
+    {
+      "titulo": "Seis de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1WBYNcR3ZU0fbmNKP9YeIQ1F6oArOqD7s&sz=w500",
+      "contenido": "Transición, un viaje sobre el agua, dejar atrás aguas turbulentas para ir hacia la calma. Es la sanación lenta. Significa alejarse de la tristeza y el estrés con la ayuda de un guía o tu propia brújula mental hacia un lugar mejor.\n\nCARTA INVERTIDA:\nResistencia al cambio, llevar exceso de equipaje emocional al futuro o viajes que se retrasan. Te cuesta soltar el pasado y eso impide que sanes o avances hacia aguas más tranquilas."
+    },
+    {
+      "titulo": "Siete de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1QbFkQWELBpLIDsZKfHLviu9tsKKhcppl&sz=w500",
+      "contenido": "Estrategia, engaño, actuar a escondidas o huir de la responsabilidad. Puede que necesites usar la astucia para salir de un problema, o puede ser una advertencia de que alguien cercano te está ocultando algo o actuando de espaldas.\n\nCARTA INVERTIDA:\nConfesión, los secretos son descubiertos, o remordimiento por haber actuado mal. El engaño ya no funciona. Tienes que enfrentar las consecuencias de tus acciones o limpiar tu conciencia."
+    },
+    {
+      "titulo": "Ocho de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1ZAZ2OmFYeB6z5JPiuFUXyh8jN_MytVu5&sz=w500",
+      "contenido": "Sentirse atrapado, ceguera mental, victimismo y creencias limitantes. Estás rodeado de espadas y te sientes impotente, pero en realidad las ataduras están sueltas. Tú mismo te pusiste ahí; cambia tu mentalidad y serás libre.\n\nCARTA INVERTIDA:\nLiberación de los miedos, recuperación del poder personal y claridad mental. Te quitas la venda, te das cuenta de que siempre fuiste libre y decides salir de tu propia prisión mental."
+    },
+    {
+      "titulo": "Nueve de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1UjsIt49D8-DawiX48QiObX26kdXd7B0X&sz=w500",
+      "contenido": "Ansiedad, pesadillas, preocupación extrema y culpa. Es la carta de la mente que no para de torturarse en la noche. Pero recuerda: la mayoría de esos miedos están solo en tu cabeza y la realidad rara vez es tan sombría como la imaginas.\n\nCARTA INVERTIDA:\nLas preocupaciones se disipan, encontrar ayuda para tus miedos profundos y ver la luz tras una etapa de profunda depresión mental. Sin embargo, a veces puede indicar miedos paralizantes llevados al extremo absoluto."
+    },
+    {
+      "titulo": "Diez de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1t94DdXDQ7JUbkfYScfhaVz3TwpFUivXm&sz=w500",
+      "contenido": "Traición final, un doloroso final de ciclo, tocar fondo, el complejo de mártir. Las espadas por la espalda indican un cierre duro y definitivo. Sin embargo, hay un amanecer dorado en el fondo: has tocado fondo, de aquí en adelante solo se puede subir.\n\nCARTA INVERTIDA:\nSobrevivir al desastre, curación de una herida profunda, regeneración y el inicio de una nueva vida. Renaces de las cenizas, aunque también puede advertir sobre negarse obstinadamente a aceptar un final inminente."
+    },
+    {
+      "titulo": "Paje de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1dxiRF5-uMIRZb2ImzUE9pEa6PI0BrpfP&sz=w500",
+      "contenido": "Curiosidad, nuevas ideas, vigilancia y sed de conocimiento. Es un mensajero con mente rápida y afilada, siempre buscando la verdad. Anuncia noticias, ideas revolucionarias o la necesidad de investigar y preguntar antes de actuar.\n\nCARTA INVERTIDA:\nChismes, promesas vacías, sarcasmo doloroso, y actuar de manera defensiva o paranoica. Representa a alguien que habla mucho pero hace poco, o información engañosa que se usa como arma."
+    },
+    {
+      "titulo": "Caballo de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=18McRP_KY8AtL2rp4-6_V7zpj5LHhmtiz&sz=w500",
+      "contenido": "Acción mental rápida, ambición, coraje y franqueza. Se lanza a la batalla intelectual sin miedo, movido por sus ideas. Su rapidez es admirable, pero debe tener cuidado de no atropellar a los demás con sus opiniones cortantes.\n\nCARTA INVERTIDA:\nImpaciencia, impulsividad extrema, crueldad, rudeza y un comportamiento agresivo. Alguien que ataca ciegamente, pierde el control de sus palabras o toma decisiones apresuradas que terminan en desastre."
+    },
+    {
+      "titulo": "Reina de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=11BGI-ufuMOVUBrWGq42S03zVEJMQaMkY&sz=w500",
+      "contenido": "Independencia, claridad mental, comunicación directa y objetividad. Es la mujer que ha superado el dolor a través de la sabiduría intelectual. Te pide usar la cabeza antes que el corazón, ver la verdad sin adornos y comunicarte con honestidad.\n\nCARTA INVERTIDA:\nFrialdad emocional extrema, amargura, venganza y críticas destructivas. Alguien que usa su inteligencia para lastimar o manipular a los demás, escudándose en el dolor pasado para ser intolerante."
+    },
+    {
+      "titulo": "Rey de Espadas",
+      "img": "https://drive.google.com/thumbnail?id=1SDnfecrkyp1-h7lShHtTOxiqkqYuPXvD&sz=w500",
+      "contenido": "Poder intelectual, autoridad, verdad, lógica y justicia. Juzga las situaciones con mente fría y analítica. Es un líder racional y ético. Te inspira a mantener la imparcialidad, usar el intelecto y cortar de raíz la confusión emocional.\n\nCARTA INVERTIDA:\nTiranía, abuso de poder intelectual, falta de compasión y manipulación. Una persona dogmática, calculadora y despiadada que usa la lógica para oprimir. Advierte sobre injusticias o engaños sofisticados."
+    },
+    {
+      "titulo": "As de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=12b8ZzmEJbA0qlSG1My64-wG15H_GAJTG&sz=w500",
+      "contenido": "Inspiración divina, un nuevo proyecto creativo, chispa de energía y pasión. Es el inicio puro del fuego. Te impulsa a tomar la iniciativa, seguir tu intuición apasionada y dar el primer paso hacia una idea que te emociona.\n\nCARTA INVERTIDA:\nBloqueos creativos, pérdida de entusiasmo, retrasos en proyectos y falta de dirección. La chispa se ha apagado o hay mucha energía contenida sin una salida clara. Sientes que no puedes arrancar."
+    },
+    {
+      "titulo": "Dos de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1j-J6r4pSLltt342LmWV2MszUO2LEhEfc&sz=w500",
+      "contenido": "Planificación futura, descubrimiento, salir de la zona de confort y decisiones a largo plazo. Tienes el mundo en tus manos y debes decidir tu próximo movimiento. Es momento de trazar estrategias y atreverse a mirar más allá de lo conocido.\n\nCARTA INVERTIDA:\nMiedo a lo desconocido, conformismo, falta de planificación o decisiones apresuradas. Te quedas en lo familiar aunque no te haga feliz, paralizado por la duda ante las posibilidades de expansión."
+    },
+    {
+      "titulo": "Tres de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1UJQqtPw-ZUk8MJsk5QUDXLkQG5SwzyXe&sz=w500",
+      "contenido": "Expansión, visión a largo plazo, viajes y los primeros resultados de tus esfuerzos. Tus barcos ya zarparon y estás esperando que lleguen a buen puerto. Confirma que vas por el camino correcto y que tus planes se están desarrollando con éxito.\n\nCARTA INVERTIDA:\nRetrasos inesperados, falta de progreso, frustración y proyectos que no despegan como se planeó. Quizás no evaluaste bien el terreno o te faltó paciencia. Tienes que reajustar tus expectativas."
+    },
+    {
+      "titulo": "Cuatro de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1BAf0BGAwURo4YuHmmisFS0798bJHLNIE&sz=w500",
+      "contenido": "Celebración, alegría, armonía en el hogar y un hito importante alcanzado. Anuncia bodas, reuniones felices, estabilidad familiar y la sensación de pertenencia. Un momento perfecto para festejar con los tuyos el trabajo bien hecho.\n\nCARTA INVERTIDA:\nConflictos familiares, inestabilidad en el hogar, celebraciones canceladas o la sensación de no pertenecer a un grupo. Aunque puede haber alegría, hay una corriente subterránea de tensión o asuntos inconclusos."
+    },
+    {
+      "titulo": "Cinco de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1JH_lp0Z7bfphrwnudUDsW1OAKDgTiPJe&sz=w500",
+      "contenido": "Competencia, conflicto, desacuerdos y pequeños desafíos irritantes. Hay un caos de opiniones chocando, pero es un conflicto creativo y necesario. Te anima a defender tu punto de vista, pero cuidando no convertir el debate en una batalla campal.\n\nCARTA INVERTIDA:\nResolución del conflicto, acuerdos alcanzados y fin de las disputas. Han logrado encontrar un terreno común. Por otro lado, puede indicar que evitas por completo el conflicto, reprimiendo opiniones necesarias por miedo."
+    },
+    {
+      "titulo": "Seis de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1beZNw7yFFtKqdFuu7u9YshZeIo_XWRrN&sz=w500",
+      "contenido": "Victoria, reconocimiento público, éxito y orgullo. Has superado los desafíos y ahora recibes el aplauso que mereces. La confianza en ti mismo está al máximo; disfruta de tu momento de triunfo bajo el sol.\n\nCARTA INVERTIDA:\nFalta de reconocimiento, ego herido, arrogancia o una victoria que se escapa de las manos en el último segundo. Sientes que nadie valora tu esfuerzo y eso te hace dudar de tus propias habilidades."
+    },
+    {
+      "titulo": "Siete de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1C6_eMp6_Lf7hzBtDIff7PXRW19xOsHkl&sz=w500",
+      "contenido": "Defensa, perseverancia, mantenerse firme y proteger tu posición. Estás en la cima, pero hay competencia que quiere derribarte. Te pide coraje y resiliencia; tienes la fuerza necesaria para defender lo que has construido.\n\nCARTA INVERTIDA:\nAgotamiento, sentirse abrumado, ceder a la presión o falta de confianza para defender tus convicciones. Has bajado la guardia o te estás rindiendo ante la crítica y la oposición de los demás."
+    },
+    {
+      "titulo": "Ocho de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1QbaCXJDtRh961ByUkAftGWHzMOMs9dsv&sz=w500",
+      "contenido": "Velocidad, acción rápida, comunicación repentina y viajes. Las cosas se están moviendo a un ritmo frenético hacia su conclusión. Prepárate para cambios dinámicos, noticias inminentes y una oleada de energía productiva.\n\nCARTA INVERTIDA:\nRetrasos frustrantes, falta de dirección, mala comunicación o pánico por hacer todo demasiado rápido y tropezar. Las cosas no avanzan, o por el contrario, hay un caos incontrolable que debes frenar."
+    },
+    {
+      "titulo": "Nueve de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1YCbBHtAEi4KXpFl_iaXoKeEVkLCbO8rm&sz=w500",
+      "contenido": "Resiliencia, persistencia, estar a la defensiva y un último empujón. Has pasado por muchas batallas y estás agotado y herido, pero sigues de pie. Te dice que no te rindas ahora; estás muy cerca de la meta final.\n\nCARTA INVERTIDA:\nAgotamiento extremo, paranoia, darse por vencido o terquedad inútil. Sientes que ya no puedes soportar un golpe más y estás a punto de rendirte. También indica que eres demasiado desconfiado sin motivo real."
+    },
+    {
+      "titulo": "Diez de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1C0j8oqe5GzFi7trnDUVI1b8b5pUQ3GPh&sz=w500",
+      "contenido": "Sobrecarga, trabajo excesivo, estrés y el peso de demasiadas responsabilidades. Estás cargando con todo tú solo y la meta está cerca, pero a un gran costo para tu salud. Te recuerda que debes delegar y aprender a decir no.\n\nCARTA INVERTIDA:\nLiberación de cargas pesadas, aprender a delegar, y soltar el control. Te estás deshaciendo del estrés innecesario. Alternativamente, significa que te has colapsado completamente por no pedir ayuda a tiempo."
+    },
+    {
+      "titulo": "Paje de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1ahpKMa-fEYXwZoWGWIUxxzLY58Ezhs-b&sz=w500",
+      "contenido": "Entusiasmo, exploración, espíritu libre, y nuevas ideas creativas. Es la chispa de la inspiración. Anuncia buenas noticias relacionadas con viajes, proyectos o espiritualidad. Representa a alguien optimista y lleno de potencial.\n\nCARTA INVERTIDA:\nFalta de inspiración, retrasos en noticias, proyectos abandonados o pesimismo. Alguien que tiene grandes ideas pero ninguna acción, o un joven impulsivo, rebelde y propenso a crear conflictos innecesarios."
     },
     {
       "titulo": "Caballo de Bastos",
       "img": "https://drive.google.com/thumbnail?id=1WnG1N2EM2KvzSTQhCJVjsKXg51fHqCGL&sz=w500",
-      "contenido": "Acción rápida, aventura, energía ardiente e impulsividad. Ir tras lo que se desea con pasión extrema."
+      "contenido": "Acción rápida, aventura, energía ardiente, encanto e impulsividad. Representa la pasión en movimiento. Ir tras lo que se desea con valor extremo. Puede indicar un cambio de residencia, un viaje emocionante o un espíritu pionero.\n\nCARTA INVERTIDA:\nIrresponsabilidad, impaciencia, arrogancia y energía dispersa. Alguien muy inconstante, un amante que desaparece rápido, o proyectos que arrancan con furia pero se abandonan al primer obstáculo."
+    },
+    {
+      "titulo": "Reina de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1si0e586Q98r9BVuD_57nt9jSVH3BFsTN&sz=w500",
+      "contenido": "Confianza, calidez, determinación, independencia y vibrante atracción. Es la líder carismática, alegre y valiente. Te anima a creer en ti mismo, abrazar tu poder interno y brillar con autenticidad y optimismo contagioso.\n\nCARTA INVERTIDA:\nInseguridad encubierta, celos, exigencias constantes y un temperamento explosivo. Alguien autoritario, vanidoso o manipulador que busca ser el centro de atención a toda costa, o una pérdida temporal de tu propia luz y confianza."
+    },
+    {
+      "titulo": "Rey de Bastos",
+      "img": "https://drive.google.com/thumbnail?id=1a_waKgBXFNbEhUGWqZpsEoFISMtj6vLH&sz=w500",
+      "contenido": "Visión audaz, liderazgo natural, honor y emprendimiento. Domina el elemento fuego; convierte ideas en realidades tangibles a través de su pura fuerza de voluntad. Te invita a liderar con pasión, integridad y objetivos claros.\n\nCARTA INVERTIDA:\nDictadura, impulsividad destructiva, expectativas irreales o crueldad. Alguien dominante que no acepta opiniones, intolerante y explosivo. Advierte sobre tomar decisiones precipitadas guiadas por la soberbia."
     }
   ],
   "signos": [
