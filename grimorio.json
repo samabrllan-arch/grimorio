@@ -1,0 +1,21 @@
+{
+  "arcanos_mayores": [
+    {
+      "titulo": "El Loco (0)",
+      "contenido": "El Loco es la carta número cero del Tarot. Representa el salto de fe, los nuevos comienzos y el espíritu libre."
+    },
+    {
+      "titulo": "El Mago (I)",
+      "contenido": "El Mago tiene todos los elementos a su disposición. Es la carta de la manifestación, el poder personal y la creación de tu propia realidad."
+    }
+  ],
+  "signos": [
+    {
+      "titulo": "Aries ♈",
+      "contenido": "Primer signo del zodíaco. Fuego cardinal. Representa el impulso, el liderazgo, el coraje y los nuevos comienzos."
+    }
+  ],
+  "planetas": [],
+  "casas": [],
+  "lunas": []
+}
