@@ -394,55 +394,67 @@
     }
   ],
   "signos": [
-    {
-      "titulo": "Aries ♈",
-      "contenido": "El fuego primordial de la creación. Signo cardinal regido por Marte. Representa la chispa divina que enciende el universo, el ardor guerrero y la voluntad inquebrantable. Son los pioneros del zodíaco, almas valientes que abren caminos donde solo hay vacío."
-    },
-    {
-      "titulo": "Tauro ♉",
-      "contenido": "La tierra fecunda y anclada. Signo fijo regido por Venus. Encarna la alquimia sensorial, la paciencia inmutable y la materialización de los deseos. Son los guardianes del jardín terrenal, poseedores de una fuerza silenciosa que transforma la semilla en oro."
-    },
-    {
-      "titulo": "Géminis ♊",
-      "contenido": "El éter de la dualidad sagrada. Signo mutable de aire regido por Mercurio. Son los tejedores de realidades, mentes veloces que danzan entre dimensiones. Representan la curiosidad infinita, traduciendo el lenguaje del cosmos a palabras terrenales con pura magia."
-    },
-    {
-      "titulo": "Cáncer ♋",
-      "contenido": "El útero cósmico y protector. Signo cardinal de agua regido por la luminosa Luna. Es la memoria del alma, el océano de las emociones profundas y el refugio espiritual. Sienten el palpitar del mundo, siendo los sanadores intuitivos que nutren con amor ancestral."
-    },
-    {
-      "titulo": "Leo ♌",
-      "contenido": "La llama soberana y eterna. Signo fijo de fuego regido por el resplandeciente Sol. Representa el corazón del universo, la expresión pura del ser y la nobleza del espíritu. Almas radiantes nacidas para iluminar las sombras, liderar con magnetismo y amar con devoción."
-    },
-    {
-      "titulo": "Virgo ♍",
-      "contenido": "La geometría sagrada de la materia. Signo mutable de tierra regido por Mercurio. Es la purificación del espíritu a través del servicio y el detalle ritual. Poseen la sabiduría del artesano divino, organizando el caos para devolverle a la creación su perfección absoluta."
-    },
-    {
-      "titulo": "Libra ♎",
-      "contenido": "La balanza cósmica del equilibrio. Signo cardinal de aire regido por Venus. Encarna la belleza trascendental, la armonía de los opuestos y la conexión sagrada. Son los espejos del alma, buscando constantemente la paz justa y la estética divina en cada vínculo."
-    },
-    {
-      "titulo": "Escorpio ♏",
-      "contenido": "El abismo de la transmutación. Signo fijo de agua regido por Plutón y Marte. Es el fuego que arde en la oscuridad, la muerte de la ilusión y el renacimiento del fénix. Navegan los misterios ocultos del alma humana, poseyendo un poder magnético y curativo sin igual."
-    },
-    {
-      "titulo": "Sagitario ♐",
-      "contenido": "La flecha disparada hacia el infinito. Signo mutable de fuego regido por el expansivo Júpiter. Representa la filosofía suprema, la fe inquebrantable y el fuego sagrado. Son los viajeros del cosmos, expandiendo la conciencia mucho más allá de las fronteras de lo terrenal."
-    },
-    {
-      "titulo": "Capricornio ♑",
-      "contenido": "La montaña cristalizada del tiempo. Signo cardinal de tierra regido por el sabio Saturno. Es la maestría sobre la materia, la estructura del destino y el honor forjado en disciplina. Almas viejas que escalan la cima espiritual con tenacidad inagotable."
-    },
-    {
-      "titulo": "Acuario ♒",
-      "contenido": "El relámpago de la mente universal. Signo fijo de aire regido por Urano y Saturno. Encarna la rebelión divina, la genialidad disruptiva y la hermandad galáctica. Son los portadores de la nueva era, canalizando frecuencias estelares para romper las cadenas del pasado."
-    },
-    {
-      "titulo": "Piscis ♓",
-      "contenido": "El océano místico de la disolución. Signo mutable de agua regido por Neptuno y Júpiter. Representa el amor incondicional, la fusión con el todo y el fin del viaje kármico. Son los soñadores supremos, nadando entre el plano material y el etéreo con sensibilidad celestial."
-    }
-  ],
+  {
+    "titulo": "Aries ♈",
+    "imagen": "https://drive.google.com/thumbnail?id=14SjCNetcdsSM3eq2andBvo56c5DknTrP&sz=w1000",
+    "contenido": "El fuego primordial de la creación. Signo cardinal regido por Marte. Representa la chispa divina que enciende el universo, el ardor guerrero y la voluntad inquebrantable. Son los pioneros del zodíaco, almas valientes que abren caminos donde solo hay vacío. Su misión espiritual es iniciar y conquistar el miedo, enseñándonos el poder de la acción pura y la fuerza del momento presente."
+  },
+  {
+    "titulo": "Tauro ♉",
+    "imagen": "https://drive.google.com/thumbnail?id=17Sy1Da6UWaipf-rjGtpJoIIWJxcr6tCs&sz=w1000",
+    "contenido": "La tierra fecunda y anclada. Signo fijo regido por Venus. Encarna la alquimia sensorial, la paciencia inmutable y la materialización de los deseos. Son los guardianes del jardín terrenal, poseedores de una fuerza silenciosa que transforma la semilla en oro. Nos enseñan a valorar el mundo físico, encontrando la divinidad en lo tangible, la belleza y la abundancia sostenible."
+  },
+  {
+    "titulo": "Géminis ♊",
+    "imagen": "https://drive.google.com/thumbnail?id=19aOpcy0M0aUSl16j4h2nng332rHRWvKD&sz=w1000",
+    "contenido": "El éter de la dualidad sagrada. Signo mutable de aire regido por Mercurio. Son los tejedores de realidades, mentes veloces que danzan entre dimensiones. Representan la curiosidad infinita, traduciendo el lenguaje del cosmos a palabras terrenales con pura magia. Su propósito es conectar ideas y personas, recordándonos que la realidad es flexible y que el aprendizaje es un viaje eterno del alma."
+  },
+  {
+    "titulo": "Cáncer ♋",
+    "imagen": "https://drive.google.com/thumbnail?id=1E3sNPkOoz1y3wcOWcbKf86BBDL60K30F&sz=w1000",
+    "contenido": "El útero cósmico y protector. Signo cardinal de agua regido por la luminosa Luna. Es la memoria del alma, el océano de las emociones profundas y el refugio espiritual. Sienten el palpitar del mundo, siendo los sanadores intuitivos que nutren con amor ancestral. Son los custodios de la vulnerabilidad, mostrándonos que la verdadera fuerza reside en la conexión emocional y en el cuidado de nuestras raíces interiores."
+  },
+  {
+    "titulo": "Leo ♌",
+    "imagen": "https://drive.google.com/thumbnail?id=1FPVvYGAE9_-BUEszOYcIt--RzEmUp2ro&sz=w1000",
+    "contenido": "La llama soberana y eterna. Signo fijo de fuego regido por el resplandeciente Sol. Representa el corazón del universo, la expresión pura del ser y la nobleza del espíritu. Almas radiantes nacidas para iluminar las sombras, liderar con magnetismo y amar con devoción. Su viaje es el del héroe, enseñándonos a vivir desde el corazón, a irradiar nuestra propia luz y a inspirar a otros a través de la creatividad auténtica."
+  },
+  {
+    "titulo": "Virgo ♍",
+    "imagen": "https://drive.google.com/thumbnail?id=1MXZhfii5cwXcf8ZG9dJSF-Oeh71eQyNM&sz=w1000",
+    "contenido": "La geometría sagrada de la materia. Signo mutable de tierra regido por Mercurio. Es la purificación del espíritu a través del servicio y el detalle ritual. Poseen la sabiduría del artesano divino, organizando el caos para devolverle a la creación su perfección absoluta. Nos recuerdan que el cuerpo es un templo y que la espiritualidad se manifiesta en las acciones diarias de cuidado, orden y mejora constante del mundo."
+  },
+  {
+    "titulo": "Libra ♎",
+    "imagen": "https://drive.google.com/thumbnail?id=1QxTBpRs6XoblzjMnvM_8Ph6mvowWQhe8&sz=w1000",
+    "contenido": "La balanza cósmica del equilibrio. Signo cardinal de aire regido por Venus. Encarna la belleza trascendental, la armonía de los opuestos y la conexión sagrada. Son los espejos del alma, buscando constantemente la paz justa y la estética divina en cada vínculo. Su misión es encontrar el punto medio, enseñándonos el arte de la diplomacia, la justicia y la profunda interconexión que existe en todas las relaciones humanas."
+  },
+  {
+    "titulo": "Escorpio ♏",
+    "imagen": "https://drive.google.com/thumbnail?id=1banut1csN9oE-OG6mNSijtVbwTC-cfdu&sz=w1000",
+    "contenido": "El abismo de la transmutación. Signo fijo de agua regido por Plutón y Marte. Es el fuego que arde en la oscuridad, la muerte de la ilusión y el renacimiento del fénix. Navegan los misterios ocultos del alma humana, poseyendo un poder magnético y curativo sin igual. Nos desafían a mirar nuestras sombras, mostrándonos que la verdadera sanación y el poder espiritual surgen al atravesar nuestros miedos más profundos."
+  },
+  {
+    "titulo": "Sagitario ♐",
+    "imagen": "https://drive.google.com/thumbnail?id=1cVuQPrGHRfJCnrq4EcToFYjT_eefunhO&sz=w1000",
+    "contenido": "La flecha disparada hacia el infinito. Signo mutable de fuego regido por el expansivo Júpiter. Representa la filosofía suprema, la fe inquebrantable y el fuego sagrado. Son los viajeros del cosmos, expandiendo la conciencia mucho más allá de las fronteras de lo terrenal. Su propósito es la búsqueda de la verdad, recordándonos la importancia de mantener una visión optimista y de buscar siempre un significado más alto en nuestras experiencias de vida."
+  },
+  {
+    "titulo": "Capricornio ♑",
+    "imagen": "https://drive.google.com/thumbnail?id=1gD1Cv8IVbLoU62l4qtoksskOJWJay5MB&sz=w1000",
+    "contenido": "La montaña cristalizada del tiempo. Signo cardinal de tierra regido por el sabio Saturno. Es la maestría sobre la materia, la estructura del destino y el honor forjado en disciplina. Almas viejas que escalan la cima espiritual con tenacidad inagotable. Son los constructores de legados, mostrándonos que la integridad, la paciencia y el trabajo duro son las bases necesarias para manifestar la visión espiritual en la realidad concreta."
+  },
+  {
+    "titulo": "Acuario ♒",
+    "imagen": "https://drive.google.com/thumbnail?id=1me8bPMJ0b_tcixyTVWwWa5Rh5lgw7tcS&sz=w1000",
+    "contenido": "El relámpago de la mente universal. Signo fijo de aire regido por Urano y Saturno. Encarna la rebelión divina, la genialidad disruptiva y la hermandad galáctica. Son los portadores de la nueva era, canalizando frecuencias estelares para romper las cadenas del pasado. Su misión es la innovación y el progreso colectivo, recordándonos que somos parte de una comunidad global y desafiéndonos a pensar en el bienestar del futuro."
+  },
+  {
+    "titulo": "Piscis ♓",
+    "imagen": "https://drive.google.com/thumbnail?id=1uRd3iuwc9wjGw6tSJD9kKJvF7_6oJNVq&sz=w1000",
+    "contenido": "El océano místico de la disolución. Signo mutable de agua regido por Neptuno y Júpiter. Representa el amor incondicional, la fusión con el todo y el fin del viaje kármico. Son los soñadores supremos, nadando entre el plano material y el etéreo con sensibilidad celestial. Son los puentes hacia el espíritu, enseñándonos la compasión universal y recordándonos que la realidad física es solo un sueño del que eventualmente despertaremos."
+  }
+]
   "planetas": [
     {
       "titulo": "Sol ☉",
