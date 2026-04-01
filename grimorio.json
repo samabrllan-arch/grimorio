@@ -458,11 +458,63 @@
   "planetas": [
     {
       "titulo": "Sol ☉",
-      "contenido": "Representa el ego, la vitalidad, la conciencia y la identidad central. Es tu verdadero 'yo', tu forma de brillar en el mundo y tu motivación de vida primaria."
+      "imagen": "https://drive.google.com/thumbnail?id=1PVZ4ALXWhtchONZ9dC_tsddQf4tko7Ip&sz=w1000",
+      "contenido": "El Astro Rey, la chispa divina de la conciencia. Representa tu identidad central, tu ego luminoso y la fuerza vital que te mantiene vivo. Es el núcleo de tu ser, el propósito último de tu encarnación. El Sol te muestra dónde y cómo estás destinado a brillar con luz propia, irradiando tu esencia auténtica sin pedir permiso al mundo."
     },
     {
       "titulo": "Luna ☽",
-      "contenido": "Gobierna tu subconsciente, tus emociones crudas, instintos y aquello que te da seguridad. Refleja cómo amas y cómo reaccionas ante situaciones de crisis."
+      "imagen": "https://drive.google.com/thumbnail?id=15CfwM_H340TE7UoN_2fhv4m0-dMBlIDN&sz=w1000",
+      "contenido": "La luminaria nocturna, el portal al océano del subconsciente. Gobierna tu mundo emocional crudo, tus instintos más profundos y la memoria de tu alma. La Luna es la madre interior que busca seguridad y refugio. Refleja cómo amas en la intimidad, cómo sanas tus heridas y qué necesitas para sentirte verdaderamente nutrido a nivel espiritual."
+    },
+    {
+      "titulo": "Mercurio ☿",
+      "imagen": "https://drive.google.com/thumbnail?id=1p9fYRzKa228fkPeyb-CQEqdIim4egagv&sz=w1000",
+      "contenido": "El mensajero alado de los dioses, el alquimista de la mente. Rige el intelecto, la comunicación y el puente entre el espíritu y la materia. Mercurio dicta cómo procesas la información del universo y cómo la traduces en palabras. Es la energía de la curiosidad, el aprendizaje constante y la agilidad mental que te permite adaptarte a cualquier dimensión."
+    },
+    {
+      "titulo": "Venus ♀",
+      "imagen": "https://drive.google.com/thumbnail?id=1ITh0R4c9eFxPyhhYNPBXVbZr1WtRUXl9&sz=w1000",
+      "contenido": "La estrella de la mañana, la esencia de la atracción magnética. Representa el amor, el arte, la sensualidad y todo aquello a lo que le damos valor. Venus no solo habla de romance, sino de tu capacidad para magnetizar la abundancia y disfrutar de los placeres terrenales. Es la fuerza de la armonía que embellece la existencia y equilibra el caos."
+    },
+    {
+      "titulo": "Marte ♂",
+      "imagen": "https://drive.google.com/thumbnail?id=1XI0hvJQapgJPomp9uQNQr1oxFvRDZBO2&sz=w1000",
+      "contenido": "El fuego rojo de la voluntad primordial. Es el guerrero interior, la pasión, el deseo sexual y el coraje crudo. Marte es el motor de arranque que te impulsa a conquistar tus metas, defender tus límites y luchar por tu supervivencia. Representa la energía masculina de la acción cortante, enseñándote a usar tu agresividad como una herramienta de victoria, no de destrucción."
+    },
+    {
+      "titulo": "Júpiter ♃",
+      "imagen": "https://drive.google.com/thumbnail?id=1V2L3ZORmI2wX7BEKIVP5W7DPtTlK-3ec&sz=w1000",
+      "contenido": "El gran benefactor cósmico, la esfera de la expansión ilimitada. Rige la suerte, la filosofía, la fe espiritual y la sabiduría superior. Júpiter es el maestro benevolente que te empuja a crecer más allá de tus fronteras, prometiendo recompensas a quienes se atreven a saltar con optimismo. Donde está Júpiter, hay abundancia, milagros y protección divina."
+    },
+    {
+      "titulo": "Saturno ♄",
+      "imagen": "https://drive.google.com/thumbnail?id=1SHjWkKO8XOdHPmNrDhOS8PLrYSTgF7xI&sz=w1000",
+      "contenido": "El Señor del Karma y el guardián del umbral del tiempo. Representa la disciplina, las lecciones duras, los límites y las estructuras del destino. Aunque suele ser temido, Saturno es el gran maestro que cristaliza tus esfuerzos. Te exige madurez y responsabilidad, garantizando que todo lo que construyas bajo su mirada estricta durará para toda la eternidad."
+    },
+    {
+      "titulo": "Urano ♅",
+      "imagen": "https://drive.google.com/thumbnail?id=1QRDC7vG7XnVUNhLGwlmaXHnjpIdKac7l&sz=w1000",
+      "contenido": "El relámpago del despertar cósmico. Gobierna la rebelión, la genialidad, la excentricidad y las sacudidas repentinas. Urano es el destructor de cadenas, la energía que llega para demoler el status quo y liberar a la humanidad hacia el futuro. Trae la intuición en forma de destellos repentinos, empujándote a abrazar tu individualidad más salvaje y auténtica."
+    },
+    {
+      "titulo": "Neptuno ♆",
+      "imagen": "https://drive.google.com/thumbnail?id=17vdA_biK8F1uBWkAoSqoNWN41jmgCUVi&sz=w1000",
+      "contenido": "El abismo insondable del misticismo y la disolución. Rige los sueños, la ilusión, la compasión universal y el mundo psíquico. Neptuno disuelve las fronteras entre el yo y el universo, llevándote a conectar con lo divino a través del arte, la meditación o el amor incondicional. Te advierte de no perderte en fantasías, pero te regala la llave a la espiritualidad más pura."
+    },
+    {
+      "titulo": "Plutón ♇",
+      "imagen": "https://drive.google.com/thumbnail?id=1o8PB0PvEvjeBD7i8FBlMCg9NdssgFQc2&sz=w1000",
+      "contenido": "El soberano de las sombras y la transmutación absoluta. Representa la muerte, el renacimiento, el poder oculto y los misterios del inframundo. Plutón rige los procesos de destrucción necesarios para que el alma evolucione. Te obliga a enfrentar tus peores miedos, quemando lo obsoleto hasta las cenizas para que puedas resurgir con el poder inquebrantable del fénix."
+    },
+    {
+      "titulo": "Lilith (Luna Negra) ⚸",
+      "imagen": "https://drive.google.com/thumbnail?id=1P796ut6zokNAzCmfcq2B96xdgbFubGH7&sz=w1000",
+      "contenido": "El poder femenino indómito y la sombra del alma. Lilith no es un planeta, sino un punto matemático oscuro de la luna que representa nuestros deseos más profundos, viscerales y reprimidos. Es la rebeldía instintiva, el rechazo a la sumisión y la fuerza destructiva que exige autonomía total. Revela la herida de la opresión y nos impulsa a reclamar nuestra independencia con pasión inquebrantable."
+    },
+    {
+      "titulo": "Quirón ⚷",
+      "imagen": "https://drive.google.com/thumbnail?id=1bydC3rS0n9yIw358zXcz_HIV_jKqRpAR&sz=w1000",
+      "contenido": "El asteroide del sanador herido, la llave del dolor crónico. Representa la herida espiritual más profunda que traemos a esta encarnación, aquella que quizás nunca cicatrice del todo. Sin embargo, Quirón nos enseña que es precisamente a través de la aceptación de ese dolor donde radica nuestro mayor poder para ayudar y sanar a otros. Es el puente entre el sufrimiento terrenal y la sabiduría cósmica."
     }
   ],
   "casas": [
