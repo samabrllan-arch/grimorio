@@ -518,11 +518,67 @@
     }
   ],
   "casas": [
-    {
-      "titulo": "Casa 1 (Ascendente)",
-      "contenido": "La casa del yo físico. Representa tu apariencia, tu constitución, tu máscara social y la primera impresión que causas en los demás."
-    }
-  ],
+  {
+    "titulo": "Casa 1: El Ascendente ♈",
+    "imagen": "https://drive.google.com/thumbnail?id=10bOHQ5dm174b5-GKu7uXK064z2EYkniX&sz=w1000",
+    "contenido": "El Altar del Yo y el portal de entrada a esta encarnación. Representa el cuerpo físico, la constitución vital y la máscara social que eliges mostrar al mundo. Es el lente a través del cual percibes la realidad y la primera impresión que causas en los demás. Aquí reside la energía de tus nuevos comienzos y la fuerza con la que proyectas tu identidad única hacia el universo, marcando el inicio de tu viaje heroico."
+  },
+  {
+    "titulo": "Casa 2: La Posesión ♉",
+    "imagen": "https://drive.google.com/thumbnail?id=118QYN7cSJvCwRH15qysx8yiQ_moEKO5g&sz=w1000",
+    "contenido": "El templo de los valores y la sustantividad material. Esta casa rige tus recursos personales, tus finanzas y todo aquello que consideras propio. Más allá del dinero, habla de tu sentido de autovaloración y de cómo te arraigas en el plano físico para obtener seguridad. Es la capacidad de materializar tus deseos y el respeto que le otorgas a tus propios talentos y dones naturales."
+  },
+  {
+    "titulo": "Casa 3: La Comunicación ♊",
+    "imagen": "https://drive.google.com/thumbnail?id=14HRJqG-b-UxvDgI9ptEz1d1hSTrhpOR5&sz=w1000",
+    "contenido": "El puente del intelecto y el tejido de la mente cercana. Gobierna el intercambio de ideas, el aprendizaje primario, los hermanos y tu entorno inmediato. Es el escenario donde tu curiosidad se manifiesta a través de las palabras, los viajes cortos y la agilidad mental. Aquí aprendes a nombrar el mundo y a construir las conexiones lógicas que dan sentido a tu realidad cotidiana."
+  },
+  {
+    "titulo": "Casa 4: El Fondo del Cielo ♋",
+    "imagen": "https://drive.google.com/thumbnail?id=14fguwimlLUyENuPZjajQx8dDhQ4Ay7XT&sz=w1000",
+    "contenido": "Las raíces del alma y el refugio sagrado de la privacidad. Situada en la base de tu carta, representa el hogar, el linaje familiar y tu conexión con los ancestros. Es el lugar más íntimo de tu psique, donde buscas seguridad emocional y pertenencia. Habla de tus cimientos, de la herencia que corre por tu sangre y de la capacidad de nutrir tu propio mundo interior antes de salir al exterior."
+  },
+  {
+    "titulo": "Casa 5: La Creatividad ♌",
+    "imagen": "https://drive.google.com/thumbnail?id=1BEm4Fw3Xe_zN_cZTzdmYimAATWrjiKVa&sz=w1000",
+    "contenido": "El escenario del gozo, el romance y la chispa divina del juego. Es la casa de la autoexpresión creativa, los placeres, los hijos y el brillo personal. Aquí es donde tu niño interior danza y se arriesga a ser visto. Representa tu capacidad para amar con generosidad, para disfrutar de la vida sin filtros y para dar vida a proyectos que lleven la impronta única de tu corazón."
+  },
+  {
+    "titulo": "Casa 6: El Servicio ♍",
+    "imagen": "https://drive.google.com/thumbnail?id=1CwRszRsb9-u-_LvZOZHqemp95heKC4wS&sz=w1000",
+    "contenido": "El ritual del orden y la alquimia de la salud cotidiana. Rige el trabajo diario, las rutinas, el servicio a los demás y el cuidado del cuerpo físico como templo. Es el escenario donde perfeccionas tus habilidades a través de la disciplina y el detalle. Aquí se manifiesta tu capacidad analítica para resolver problemas y el compromiso de mantener el equilibrio entre tu mente y tu organismo."
+  },
+  {
+    "titulo": "Casa 7: El Descendente ♎",
+    "imagen": "https://drive.google.com/thumbnail?id=1bLqO441Evxsv7XK-NMjsYf_zSdb6QjKN&sz=w1000",
+    "contenido": "El espejo del alma y la geometría sagrada del 'Nosotros'. Es la casa de las relaciones de pareja, los contratos, los socios y los enemigos declarados. Representa lo que buscamos en el otro para sentirnos completos y cómo equilibramos nuestra balanza personal en el encuentro con los demás. Es el umbral donde el 'Yo' se disuelve para aprender las lecciones del compromiso, la armonía y la justicia."
+  },
+  {
+    "titulo": "Casa 8: La Transmutación ♏",
+    "imagen": "https://drive.google.com/thumbnail?id=1c5-TdfX0YCjcFArj2_iBW4CcvsN4oUKr&sz=w1000",
+    "contenido": "El abismo de la transformación y los misterios ocultos. Esta casa rige la muerte simbólica, el renacimiento, la sexualidad profunda, las crisis y los recursos compartidos (como herencias y deudas). Es el escenario donde te enfrentas a tus sombras para resurgir con mayor poder. Aquí se vive la fusión total con el otro y la capacidad de soltar lo viejo para permitir que la magia de la evolución ocurra."
+  },
+  {
+    "titulo": "Casa 9: La Sabiduría ♐",
+    "imagen": "https://drive.google.com/thumbnail?id=1c9dStphDyc6kMWS_KQe6FzZfdKjbr4q2&sz=w1000",
+    "contenido": "La flecha disparada hacia la verdad suprema. Gobierna los estudios superiores, la filosofía, la religión, las leyes y los viajes a tierras lejanas. Es la búsqueda de significado más allá de lo conocido, la expansión de la conciencia y la fe en el orden cósmico. Aquí es donde construyes tu sistema de creencias y te atreves a explorar fronteras físicas y mentales en busca de la iluminación."
+  },
+  {
+    "titulo": "Casa 10: El Medio Cielo ♑",
+    "imagen": "https://drive.google.com/thumbnail?id=1t3xpyyIHlkhp0qLEeXghQzUcHaiRPKq4&sz=w1000",
+    "contenido": "La cumbre del destino y la huella que dejas en la historia. Representa tu carrera, tu vocación, tu estatus social y tu reputación pública. Es el punto más alto de tu carta astral, indicando tus ambiciones más elevadas y el reconocimiento que recibes de la sociedad. Habla de tu autoridad, de tu sentido del honor y del legado que aspiras construir a través de tu esfuerzo y responsabilidad."
+  },
+  {
+    "titulo": "Casa 11: La Esperanza ♒",
+    "imagen": "https://drive.google.com/thumbnail?id=1y8Jmgc3rnD59VNqZ7CoVCPQVfU4gsADa&sz=w1000",
+    "contenido": "La red galáctica de las almas y los sueños colectivos. Es la casa de los amigos, los grupos, las organizaciones y los ideales humanitarios. Aquí se manifiesta tu capacidad para colaborar por un bien común y para visualizar un futuro mejor. Representa la protección que recibes del universo y los proyectos a largo plazo que compartes con aquellos que vibran en tu misma frecuencia ideológica."
+  },
+  {
+    "titulo": "Casa 12: El Inconsciente ♓",
+    "imagen": "https://drive.google.com/thumbnail?id=1z24z__ne5Mnl6q0GjGlovJ7oQxhKD3pw&sz=w1000",
+    "contenido": "El océano del espíritu y el retiro hacia lo absoluto. La última casa representa lo que está oculto: los sueños, el subconsciente, el karma, el encierro y el sacrificio espiritual. Es el útero cósmico donde todo se disuelve antes de volver a nacer en la Casa 1. Habla de tu conexión con lo divino, de las vidas pasadas y de la necesidad de soledad para sanar y comprender que todos somos uno."
+  }
+]
   "lunas": [
     {
       "titulo": "Luna Nueva",
