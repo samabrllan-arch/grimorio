@@ -580,44 +580,44 @@
   }
 ],
   "lunas": [
-  {
-    "titulo": "Luna Nueva 🌑",
-    "imagen": "https://drive.google.com/thumbnail?id=13tv6ycw9Kp0XhCNshxmn4rhnJniYY5mf&sz=w1000",
-    "contenido": "El Útero Cósmico y el punto cero de la creación. En esta fase, la Luna se oculta entre el Sol y la Tierra, fundiéndose en la oscuridad total. Es el momento del vacío sagrado, la pausa antes del nacimiento y la siembra de intenciones. El universo te invita a retirarte al silencio de tu alma, a plantar las semillas de tus deseos más profundos y a confiar en lo que aún no es visible, pero ya está gestándose en el abismo fértil del espíritu."
-  },
-  {
-    "titulo": "Luna Creciente 🌒",
-    "imagen": "https://drive.google.com/thumbnail?id=17ombndlGFABvOmMjIC1M8fSyjY0H8mg1&sz=w1000",
-    "contenido": "La Chispa de la Voluntad. Cuando el primer arco de luz aparece en el cielo, la intención comienza a cobrar forma. Esta fase representa el despertar de la energía, el momento de declarar tus propósitos al cosmos con fuerza y convicción. Es un tiempo de frescura y esperanza, donde la resistencia empieza a disolverse y la fe se convierte en el motor que impulsa tus proyectos hacia la manifestación física."
-  },
-  {
-    "titulo": "Cuarto Creciente 🌓",
-    "imagen": "https://drive.google.com/thumbnail?id=1C0HQ7EcB4_dbVa1Q0xhrvFuFuxJbY2B8&sz=w1000",
-    "contenido": "El Altar del Compromiso. La luz y la sombra se equilibran perfectamente, exigiendo una decisión firme. Esta es una fase de acción y superación de obstáculos; el universo pone a prueba tu determinación para ver si estás dispuesto a luchar por lo que sembraste en la Luna Nueva. Es el momento de construir estructuras sólidas, de avanzar con coraje y de transformar la intención en movimiento constante y rítmico."
-  },
-  {
-    "titulo": "Luna Gibosa Creciente 🌔",
-    "imagen": "https://drive.google.com/thumbnail?id=1HkGEozsdmA-xbAAfaAEnz4mjbz2sx-7j&sz=w1000",
-    "contenido": "La Alquimia del Perfeccionamiento. La Luna está casi llena, brillando con una intensidad que revela los detalles. Es el tiempo del análisis, la revisión y el refinamiento de tus planes. Esta fase te enseña la paciencia y la atención al detalle; es el último esfuerzo antes del clímax. El cosmos te pide que ajustes tu rumbo, que pulas tus talentos y que te prepares con humildad para la gran revelación que se aproxima."
-  },
-  {
-    "titulo": "Luna Llena 🌕",
-    "imagen": "https://drive.google.com/thumbnail?id=1IUTEW6_tz9_WHAxzAX4OWHef0QRU51DQ&sz=w1000",
-    "contenido": "El Espejo de la Plenitud y la Cúspide de la Magia. El Sol ilumina totalmente la cara de la Luna, trayendo claridad absoluta a lo que antes estaba oculto. Es el momento de la cosecha, la culminación de los esfuerzos y la manifestación de la verdad. Bajo su luz plateada, las emociones se desbordan y el poder psíquico alcanza su máximo potencial. Es un tiempo de celebración, agradecimiento y revelación de los frutos de tu viaje espiritual."
-  },
-  {
-    "titulo": "Luna Gibosa Menguante 🌖",
-    "imagen": "https://drive.google.com/thumbnail?id=1KP9ZXnVj3769iVKxGBShKLt9m80NzDOG&sz=w1000",
-    "contenido": "El Aliento de la Sabiduría Compartida. Tras el clímax de la plenitud, la energía comienza a volverse hacia afuera para ser entregada al mundo. Es el momento de enseñar, de compartir lo aprendido y de expresar gratitud. El universo te invita a distribuir tus bendiciones, a reflexionar sobre las lecciones del ciclo y a sembrar conocimiento en los demás, comprendiendo que toda abundancia debe fluir para no estancarse."
-  },
-  {
-    "titulo": "Cuarto Menguante 🌗",
-    "imagen": "https://drive.google.com/thumbnail?id=1p76_crAdtz-XsjCHI2b68u3nfxbhOd-T&sz=w1000",
-    "contenido": "El Ritual del Desprendimiento. La luz retrocede y nos obliga a mirar hacia adentro de nuevo. Esta es una fase de purificación, limpieza y perdón. Es el momento de soltar las cargas que ya no te pertenecen, de romper estructuras obsoletas y de despedirte de lo que ha cumplido su ciclo. El cosmos te pide que te despojes de las máscaras y los apegos, preparándote para el retorno a la esencia pura a través de la liberación consciente."
-  },
-  {
-    "titulo": "Luna Balsámica 🌘",
-    "imagen": "https://drive.google.com/thumbnail?id=1pFn20BNlfWdbyGp0HVO3P2gRPk5IYwGO&sz=w1000",
-    "contenido": "El Retorno al Silencio Ancestral. La última uña de luz antes de la oscuridad total. Es la fase del sanador, el tiempo del descanso profundo y la rendición absoluta al destino. La energía es mínima en el exterior, pero máxima en el interior. El universo te invita a la meditación, al sueño profético y a la entrega total al flujo del espíritu. Es el cierre del círculo, el momento de sanar las últimas heridas y descansar en los brazos de la noche antes de volver a nacer."
-  }
-]}
+    {
+      "titulo": "Luna Nueva 🌑",
+      "imagen": "https://drive.google.com/thumbnail?id=1HkGEozsdmA-xbAAfaAEnz4mjbz2sx-7j&sz=w1000",
+      "contenido": "El Útero Cósmico y el punto cero de la creación. En esta fase, la Luna se oculta entre el Sol y la Tierra, fundiéndose en la oscuridad total. Es el momento del vacío sagrado, la pausa antes del nacimiento y la siembra de intenciones. El universo te invita a retirarte al silencio de tu alma, a plantar las semillas de tus deseos más profundos y a confiar en lo que aún no es visible, pero ya está gestándose en el abismo fértil del espíritu."
+    },
+    {
+      "titulo": "Luna Creciente 🌒",
+      "imagen": "https://drive.google.com/thumbnail?id=1pFn20BNlfWdbyGp0HVO3P2gRPk5IYwGO&sz=w1000",
+      "contenido": "La Chispa de la Voluntad. Cuando el primer arco de luz aparece en el cielo, la intención comienza a cobrar forma. Esta fase representa el despertar de la energía, el momento de declarar tus propósitos al cosmos con fuerza y convicción. Es un tiempo de frescura y esperanza, donde la resistencia empieza a disolverse y la fe se convierte en el motor que impulsa tus proyectos hacia la manifestación física."
+    },
+    {
+      "titulo": "Cuarto Creciente 🌓",
+      "imagen": "https://drive.google.com/thumbnail?id=1C0HQ7EcB4_dbVa1Q0xhrvFuFuxJbY2B8&sz=w1000",
+      "contenido": "El Altar del Compromiso. La luz y la sombra se equilibran perfectamente, exigiendo una decisión firme. Esta es una fase de acción y superación de obstáculos; el universo pone a prueba tu determinación para ver si estás dispuesto a luchar por lo que sembraste en la Luna Nueva. Es el momento de construir estructuras sólidas, de avanzar con coraje y de transformar la intención en movimiento constante y rítmico."
+    },
+    {
+      "titulo": "Luna Gibosa Creciente 🌔",
+      "imagen": "https://drive.google.com/thumbnail?id=1IUTEW6_tz9_WHAxzAX4OWHef0QRU51DQ&sz=w1000",
+      "contenido": "La Alquimia del Perfeccionamiento. La Luna está casi llena, brillando con una intensidad que revela los detalles. Es el tiempo del análisis, la revisión y el refinamiento de tus planes. Esta fase te enseña la paciencia y la atención al detalle; es el último esfuerzo antes del clímax. El cosmos te pide que ajustes tu rumbo, que pulas tus talentos y que te prepares con humildad para la gran revelación que se aproxima."
+    },
+    {
+      "titulo": "Luna Llena 🌕",
+      "imagen": "https://drive.google.com/thumbnail?id=17ombndlGFABvOmMjIC1M8fSyjY0H8mg1&sz=w1000",
+      "contenido": "El Espejo de la Plenitud y la Cúspide de la Magia. El Sol ilumina totalmente la cara de la Luna, trayendo claridad absoluta a lo que antes estaba oculto. Es el momento de la cosecha, la culminación de los esfuerzos y la manifestación de la verdad. Bajo su luz plateada, las emociones se desbordan y el poder psíquico alcanza su máximo potencial. Es un tiempo de celebración, agradecimiento y revelación de los frutos de tu viaje espiritual."
+    },
+    {
+      "titulo": "Luna Gibosa Menguante 🌖",
+      "imagen": "https://drive.google.com/thumbnail?id=1KP9ZXnVj3769iVKxGBShKLt9m80NzDOG&sz=w1000",
+      "contenido": "El Aliento de la Sabiduría Compartida. Tras el clímax de la plenitud, la energía comienza a volverse hacia afuera para ser entregada al mundo. Es el momento de enseñar, de compartir lo aprendido y de expresar gratitud. El universo te invita a distribuir tus bendiciones, a reflexionar sobre las lecciones del ciclo y a sembrar conocimiento en los demás, comprendiendo que toda abundancia debe fluir para no estancarse."
+    },
+    {
+      "titulo": "Cuarto Menguante 🌗",
+      "imagen": "https://drive.google.com/thumbnail?id=1p76_crAdtz-XsjCHI2b68u3nfxbhOd-T&sz=w1000",
+      "contenido": "El Ritual del Desprendimiento. La luz retrocede y nos obliga a mirar hacia adentro de nuevo. Esta es una fase de purificación, limpieza y perdón. Es el momento de soltar las cargas que ya no te pertenecen, de romper estructuras obsoletas y de despedirte de lo que ha cumplido su ciclo. El cosmos te pide que te despojes de las máscaras y los apegos, preparándote para el retorno a la esencia pura a través de la liberación consciente."
+    },
+    {
+      "titulo": "Luna Balsámica 🌘",
+      "imagen": "https://drive.google.com/thumbnail?id=13tv6ycw9Kp0XhCNshxmn4rhnJniYY5mf&sz=w1000",
+      "contenido": "El Retorno al Silencio Ancestral. La última uña de luz antes de la oscuridad total. Es la fase del sanador, el tiempo del descanso profundo y la rendición absoluta al destino. La energía es mínima en el exterior, pero máxima en el interior. El universo te invita a la meditación, al sueño profético y a la entrega total al flujo del espíritu. Es el cierre del círculo, el momento de sanar las últimas heridas y descansar en los brazos de la noche antes de volver a nacer."
+    }
+  ]}
